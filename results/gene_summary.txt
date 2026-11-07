@@ -1,0 +1,4 @@
+Gene symbol: MYH7
+NCBI Gene ID: 4625
+Official name: myosin heavy chain 7
+Chromosome: 14
